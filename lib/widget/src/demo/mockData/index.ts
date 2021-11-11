@@ -1,0 +1,6 @@
+export * from './linkedPatients'
+export { mockEncounters } from './encounters'
+// export { mockLocations } from './locations'
+export { mockAllergies } from './allergies'
+export { mockFlags } from './flags'
+export { mockDomainData } from './domainData'

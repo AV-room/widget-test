@@ -1,0 +1,15 @@
+[
+    {
+        "instanceId": "8e67f122-eaf2-4a53-9734-954853dd5993",
+        "widgetId": "PatientDashboard",
+        "options": {}
+    },
+    {
+        "instanceId": "443ea518-8f68-4dbc-b3cb-3a9ae98ed4af",
+        "widgetId": "AlertsDashboard",
+        "size": {
+            "width": { "method": "units", "value": 180, "unit": "px" }
+        },
+        "options": { "useLinked": false }
+    }
+]

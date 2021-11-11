@@ -1,0 +1,38 @@
+[
+    {
+        "instanceId": "443ea518-8f68-4dbc-b3cb-3a9ae98ed4af",
+        "widgetId": "PatientPrint",
+        "size": {
+            "method": "weighting",
+            "value": 2
+        },
+        "options": {}
+    },
+    {
+        "instanceId": "25c3749f-cffe-415f-9dd4-50d2d56f3937",
+        "widgetId": "NotesPrint",
+        "size": {
+            "method": "weighting",
+            "value": 2
+        },
+        "options": {}
+    },
+    {
+        "instanceId": "15c3749f-cffe-415f-9dd4-50d2d56f3937",
+        "widgetId": "AlertsPrint",
+        "size": {
+            "method": "weighting",
+            "value": 2
+        },
+        "options": {"useLinked":  true}
+    },
+    {
+        "instanceId": "05c3749f-cffe-415f-9dd4-50d2d56f3937",
+        "widgetId": "AllergiesPrint",
+        "size": {
+            "method": "weighting",
+            "value": 2
+        },
+        "options": {}
+    }
+]
